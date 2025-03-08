@@ -1,12 +1,13 @@
 {
-    "name": "nwidart/laravel-modules",
+    "name": "sunwarul/laravel-modules",
     "description": "Laravel Module management",
     "keywords": [
         "modules",
         "laravel",
         "nwidart",
         "module",
-        "rad"
+        "rad",
+        "sunwarul"
     ],
     "license": "MIT",
     "authors": [
